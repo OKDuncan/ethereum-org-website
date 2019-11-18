@@ -147,6 +147,12 @@ Ethereum has a large and growing number of tools to help developers build, test,
 - [Remix Plugin](https://github.com/pi0neerpat/remix-plugin-one-click-dapp)
 - [GitHub](https://github.com/pi0neerpat/one-click-dapp)
 
+**Abridged -** **_Access account contracts with arbitrary key generation, ENS support, compatiblility with a variety of Auth services, and include L2 solutions in your design. Solidity wrapped in JS._**
+
+- [Docs](https://abridged.gitbook.io/docs/)
+- [Github](https://github.com/netgum/archanova)
+- [Playground](https://playground.archanova.run/?activate=help)
+
 **Looking for other options?**
 
 - [Ethereum Developer Tools List #Frameworks](https://github.com/ConsenSys/ethereum-developer-tools-list#frameworks)
